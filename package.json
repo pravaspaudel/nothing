@@ -1,0 +1,18 @@
+{
+  "name": "data-fetching-flipkart",
+  "version": "1.0.0",
+  "main": "scrapingFlipkart.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node scrapingMobile"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
