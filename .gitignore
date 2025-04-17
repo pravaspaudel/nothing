@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these two files
+!scrapingMobile.js
+!brandName.js
+
+# Also don't ignore .gitignore itself
+!.gitignore
+
+node_modules/
